@@ -17,7 +17,6 @@ This is one of the programming languages I am getting used to coding, you can lo
 
 ### Facts about me:<br>
 💻 Java Programmer<br>
-❤️ Coding and video-games<br>
 📜 Software Engineering<br>
 ⚡ Any problems have their solutions!<br>
 📫 Reach me at salvadorcesar8@gmail.com <br>
